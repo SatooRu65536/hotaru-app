@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9E34A6102A65167500E04607 /* hotaru.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9E34A60F2A65167500E04607 /* hotaru.mp3 */; };
+		9E3595002A651C6F00FCEFC3 /* hotaru.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9E3594FF2A651C6F00FCEFC3 /* hotaru.mp3 */; };
 		9ED3C3C42A65062000106567 /* hotaruApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ED3C3C32A65062000106567 /* hotaruApp.swift */; };
 		9ED3C3C82A65062100106567 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9ED3C3C72A65062100106567 /* Assets.xcassets */; };
 		9ED3C3CB2A65062100106567 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9ED3C3CA2A65062100106567 /* Preview Assets.xcassets */; };
@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		9E34A60F2A65167500E04607 /* hotaru.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = hotaru.mp3; path = "../../../../Downloads/hotaru 2023-07-17 15-15-24/hotaru.app/Contents/Resources/hotaru.mp3"; sourceTree = "<group>"; };
+		9E3594FF2A651C6F00FCEFC3 /* hotaru.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = hotaru.mp3; path = assets/hotaru.mp3; sourceTree = SOURCE_ROOT; };
 		9ED3C3C02A65062000106567 /* hotaru.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hotaru.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9ED3C3C32A65062000106567 /* hotaruApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hotaruApp.swift; sourceTree = "<group>"; };
 		9ED3C3C72A65062100106567 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -57,7 +57,7 @@
 				9ED3C3D22A65069100106567 /* MenuView.swift */,
 				9ED3C3C32A65062000106567 /* hotaruApp.swift */,
 				9ED3C3C72A65062100106567 /* Assets.xcassets */,
-				9E34A60F2A65167500E04607 /* hotaru.mp3 */,
+				9E3594FF2A651C6F00FCEFC3 /* hotaru.mp3 */,
 				9ED3C3CC2A65062100106567 /* hotaru.entitlements */,
 				9ED3C3C92A65062100106567 /* Preview Content */,
 			);
@@ -132,7 +132,7 @@
 			files = (
 				9ED3C3CB2A65062100106567 /* Preview Assets.xcassets in Resources */,
 				9ED3C3C82A65062100106567 /* Assets.xcassets in Resources */,
-				9E34A6102A65167500E04607 /* hotaru.mp3 in Resources */,
+				9E3595002A651C6F00FCEFC3 /* hotaru.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
