@@ -10,8 +10,8 @@ import SwiftUI
 @main
 struct hotaruApp: App {
     var body: some Scene {
-        WindowGroup {
-            ContentView()
+        MenuBarExtra("蛍") {
+            MenuView()
         }
     }
 }
